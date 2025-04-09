@@ -9,7 +9,7 @@ public class EmployeeView {
         EmployeeController controller = new EmployeeController();
 
         while (true) {
-            System.out.println("\nStudent Management System");
+            System.out.println("\nEmployee Management System");
             System.out.println("1. Add Employee");
             System.out.println("2. View Employees");
             System.out.println("3. Update Employee");
