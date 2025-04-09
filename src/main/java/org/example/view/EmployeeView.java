@@ -3,7 +3,7 @@ package org.example.view;
 import org.example.control.EmployeeController;
 import java.util.Scanner;
 
-public class StudentView {
+public class EmployeeView {
     public void start() {
         Scanner scanner = new Scanner(System.in);
         EmployeeController controller = new EmployeeController();
